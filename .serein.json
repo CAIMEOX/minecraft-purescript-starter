@@ -1,0 +1,15 @@
+{
+	"language": "js",
+	"res": false,
+	"name": "sapi-purescript-starter",
+	"behPath": "behavior_packs",
+	"resPath": "resource_pack",
+	"scriptsPath": "output/",
+	"behManifestPath": "behavior_packs/manifest.json",
+	"resManifestPath": "resource_pack",
+	"mc_preview": false,
+	"output": "build",
+	"mc_dir": null,
+	"esbuild": {},
+	"tsconfig": {}
+}

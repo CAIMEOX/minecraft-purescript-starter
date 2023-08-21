@@ -1,0 +1,3 @@
+[submodule "pure_bedrock"]
+	path = pure_bedrock
+	url = https://github.com/CAIMEOX/pure_bedrock.git
